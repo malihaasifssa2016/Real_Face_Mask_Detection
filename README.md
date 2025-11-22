@@ -1,7 +1,7 @@
 # Real_Face_Mask_Detection
 This project is a real-time Face Mask Detection System built using OpenCV, TensorFlow/Keras, and a pre-trained deep learning model. It uses your webcam to detect faces and classify each face as “Mask” or “No Mask”.
 
-Features
+**Features**
 
 Real-time webcam detection
 
@@ -13,7 +13,7 @@ Bounding boxes and labels drawn on each detected face
 
 Works on CPU (no GPU required)
 
-Tech Stack
+**Tech Stack**
 
 Python 3.x
 
